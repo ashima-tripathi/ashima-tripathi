@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ashima 👋
 
-<!--
-**ashima-tripathi/ashima-tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer @ SAP Ariba** | Building enterprise solutions at scale
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🏢 **3+ years** building enterprise software at **SAP Ariba**, working on microservices architecture and backend systems serving **10K+ users**
+- ⚙️ Specialized in **Java/Spring Boot**, RESTful APIs, system design, and performance optimization
+- 🧪 Strong advocate for **Test-Driven Development** - achieved 95% code coverage and 60% defect reduction
+- 📈 Delivered measurable impact: **98% performance improvement** in search functionality, **99.9% migration success rate**
+
+---
+
+## 💡 What I'm Interested In
+
+I'm passionate about building **scalable, reliable backend systems** that solve real business problems. Currently exploring:
+
+- Distributed systems design patterns and microservices architecture
+- Performance optimization techniques for high-traffic applications
+- Cloud-native technologies and DevOps practices
+- Contributing to open-source projects in the Java/Spring ecosystem
+
+Always eager to learn, collaborate, and share knowledge with the developer community!
+
+---
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ashima-tripathi/) | ashima.tripathi000@gmail.com
